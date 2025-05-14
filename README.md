@@ -16,4 +16,4 @@ A **React.js weather application** that displays real-time weather information b
 - OpenWeatherMap API
 
 ## 📺 Demo Video
-
+> https://github.com/user-attachments/assets/51d0ab25-73bb-491b-a67c-87ee54f82265
